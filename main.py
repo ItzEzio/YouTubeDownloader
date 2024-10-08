@@ -1,5 +1,3 @@
-#non eseguire su SSH
-
 import os
 import shutil
 import yt_dlp
